@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">휴대용 미세먼지 측정기</h3>
+  <h3 align="center">휴대용 미세먼지 측정기</h3>
 
   <p align="center">
     아두이노와 Kodular(앱 인벤터) 앱을 사용하여 만든 휴대용 미세먼지 측정기
